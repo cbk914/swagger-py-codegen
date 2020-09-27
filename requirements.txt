@@ -1,6 +1,6 @@
 six
 json-spec
-click<7
+click<8
 jinja2
 dpath
 jsonschema==3.2.0
